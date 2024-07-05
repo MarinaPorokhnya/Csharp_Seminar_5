@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\bin\Debug\net8.0\задача1с5.exe
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\bin\Debug\net8.0\задача1с5.deps.json
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\bin\Debug\net8.0\задача1с5.runtimeconfig.json
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\bin\Debug\net8.0\задача1с5.dll
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\bin\Debug\net8.0\задача1с5.pdb
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.dll
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\refint\задача1с5.dll
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.pdb
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\задача1с5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GB\Csharp\Практика\Семинар5\задача1с5\obj\Debug\net8.0\ref\задача1с5.dll
